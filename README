@@ -1,5 +1,9 @@
 Git tracks changes of files
 add remote test
 git is good
+<<<<<<< HEAD
 Creating a new branch is quick and simple.
 Creating a new branch is simple and quick.
+=======
+creating a new branch is quick and simple.
+>>>>>>> feature1
